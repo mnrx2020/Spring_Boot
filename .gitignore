@@ -33,6 +33,6 @@ build/
 .vscode/
 
 # Ignore application.yml inside the resources folder
-src/main/resources/application.yml
+/src/main/resources/application.yml
 
 
